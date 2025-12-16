@@ -11,7 +11,7 @@ import select
 
 Actuator_ID = 0
 Actuator_ID_1 = 2
-Actuator_ID_2 = 3
+Actuator_ID_2 = 2
 
 CONVERSAO_MM_PARA_POSICAO = 136.518518519
 OFFSET_POSICAO_MM_MIGHTYZAP = 7.0
